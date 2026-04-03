@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "この高鳴りをなんと呼ぶ",
+  "base_artist": "忘れらんねえよ",
+  "createdAt": "2026-04-03T09:56:49.945319Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "この高鳴りをなんと呼ぶ",
+      "artist": "忘れらんねえよ",
+      "has_synced": false,
+      "path": "select/pl_01_この高鳴りをなんと呼ぶ_忘れらんねえよ.txt"
+    }
+  ]
+}
